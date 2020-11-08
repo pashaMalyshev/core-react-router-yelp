@@ -26,7 +26,7 @@
 - [React Materialize](https://react-materialize.github.io/#/)
 - [React Material-UI (Google)](https://material-ui.com/)
 - [Arui-feather (Альфа-банк)](https://github.com/alfa-laboratory/arui-feather)
-- [React Semantic UI](https://react.semantic-ui.com/)
+- [React Semantic UI](https://react.semantic-ui.com/collections/form/)
 
 
 ### Release 2: Список ресторанов
