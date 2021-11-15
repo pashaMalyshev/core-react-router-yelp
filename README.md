@@ -21,12 +21,13 @@
 ### Release 1: Библиотека компонентов
 
 Подключите библиотеку UI компонентов, чтобы сразу же работать со стилизованными элементами на странице. Например, вы можете взять одну из следующих: 
-- [Reactstrap (Bootstrap 4)](https://reactstrap.github.io/)
-- [React Bootstrap (Bootstrap 3)](https://react-bootstrap.github.io/)
+- [Reactstrap](https://reactstrap.github.io/)
+- [React Bootstrap](https://react-bootstrap.github.io/)
 - [React Materialize](https://react-materialize.github.io/#/)
 - [React Material-UI (Google)](https://material-ui.com/)
 - [Arui-feather (Альфа-банк)](https://github.com/alfa-laboratory/arui-feather)
 - [React Semantic UI](https://react.semantic-ui.com/collections/form/)
+- [Ant Design](https://ant.design/docs/react/getting-started)
 
 
 ### Release 2: Список ресторанов
