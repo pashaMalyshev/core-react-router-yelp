@@ -16,7 +16,7 @@
 1. /login с формой ввода имени пользователя и кнопкой login
 2. /info с описание проекта
 
-Тут читаем про Реакт Роутер - https://reacttraining.com/react-router/web/example/basic
+Тут читаем про Реакт Роутер - https://reactrouter.com/docs/en/v6/getting-started/overview
 
 ### Release 1: Библиотека компонентов
 
